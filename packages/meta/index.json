@@ -1,0 +1,14 @@
+{
+  "package": "meta",
+  "entry_count": 1,
+  "entries": [
+    {
+      "id": "note-0001-c14f234da11540c78204331f9412ee82",
+      "type": "note",
+      "timestamp": "2026-07-06T12:43:19Z",
+      "title": "Meta package initialized. Use this space for cross-project p",
+      "tags": [],
+      "file_path": "entries/note-0001-c14f234da11540c78204331f9412ee82.md"
+    }
+  ]
+}
