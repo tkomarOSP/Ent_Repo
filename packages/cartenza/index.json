@@ -1,6 +1,6 @@
 {
   "package": "cartenza",
-  "entry_count": 1,
+  "entry_count": 2,
   "entries": [
     {
       "id": "note-0001-cde72c33f7224456b3944987f598d161",
@@ -9,6 +9,14 @@
       "title": "Cartenza knowledge log initialized. This package holds day-t",
       "tags": [],
       "file_path": "entries/note-0001-cde72c33f7224456b3944987f598d161.md"
+    },
+    {
+      "id": "obs-0001-181ae4ae8c234e3e904ecf06d648bf94",
+      "type": "observation",
+      "timestamp": "2026-07-06T12:46:25Z",
+      "title": "Customer conversation with Fred at DOG Industries. Fred resp",
+      "tags": [],
+      "file_path": "entries/obs-0001-181ae4ae8c234e3e904ecf06d648bf94.md"
     }
   ]
 }
